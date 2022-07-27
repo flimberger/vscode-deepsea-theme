@@ -1,0 +1,27 @@
+{
+    "name": "deepsea-color-theme",
+    "displayName": "Deepsea Color Theme",
+    "description": "A blue and yellow theme",
+    "version": "0.0.1",
+    "publisher": "flimberger",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/flimberger/vscode-deepsea-color-theme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Deepsea Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/deepsea-color-theme.json"
+            }
+        ]
+    }
+}
