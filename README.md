@@ -2,4 +2,6 @@
 
 A blue and yellow colour theme for Visual Studio Code.
 
-This is a port of my [https://codeberg.org/flimberger/deepsea.nvim](neovim theme).
+<img alt="screenshot" src="screenshot.png" />
+
+This is a port of my [neovim theme](https://codeberg.org/flimberger/deepsea.nvim).
